@@ -19,7 +19,7 @@ go build
 
 
 
-export GOOGLE_APPLICATION_CREDENTIALS="/Users/schintha/Developer/Apps/micro-starter-kit.json"
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/sumo/micro-starter-kit.json"
 
 
 ./wordcount --input gs://micro-starter-kit/dataflow/wordcount/input/shakespeare.txt \
